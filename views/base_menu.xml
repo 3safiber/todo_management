@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+  <menuitem id="todo_modul_root_menu" name="TODO" sequence="2"
+    web_icon="book_test,static\description\icon.png"
+  />
+
+</odoo>
